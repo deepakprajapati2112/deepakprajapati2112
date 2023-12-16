@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Prajapati</h1>
 
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Software Engineer;I'm+a+Coder;I'm+a++Learner"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Software_Engineer;I'm+a+Coder;I'm+a++Learner"/>
 </div>
 <h2 align="center"><img align="center" height="80px" width="95px" src="images/connect.gif"/>Looking Forward To Learn & Contribute With Github Altogether <img align="center" height="80px" width="95px" src="images/connect.gif"/></h2> <br>
 <div align="center">
